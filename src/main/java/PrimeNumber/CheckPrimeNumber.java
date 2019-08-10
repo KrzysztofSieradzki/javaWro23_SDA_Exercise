@@ -47,7 +47,11 @@ public class CheckPrimeNumber {
         return list;
     }
 
-    //public int Eratostenes ( int n){
-    //    int [] tab1 =
-    //}
+    public int Eratostenes ( int n){
+        List<Integer> a1 = new ArrayList<Integer>();
+        List<Integer> a2 = new ArrayList<Integer>();
+
+        // TO DO
+        return n;
+    }
 }
