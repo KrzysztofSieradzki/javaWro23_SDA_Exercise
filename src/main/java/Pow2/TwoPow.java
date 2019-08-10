@@ -21,5 +21,10 @@ public class TwoPow {
         return powRec(exp-1)*2;
     }
 
+    public int powBit(int exp){
+
+        return 1<<exp;
+    }
+
 
 }

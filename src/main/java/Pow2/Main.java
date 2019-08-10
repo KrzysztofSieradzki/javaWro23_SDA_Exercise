@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println(twoPow.powIter(3));
         System.out.println(twoPow.powRec(3));
+        System.out.println(twoPow.powBit(3));
     }
 }
