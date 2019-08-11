@@ -7,6 +7,8 @@ public class ComputerWillTryGuess {
 
     public static void main(String[] args) {
 
+        // TO DO - uzyj min i max przy limit by poprawic
+
 
         Scanner s = new Scanner(System.in);
         System.out.println("Rzuce liczbe dla komputera");
